@@ -12,3 +12,4 @@ I used:
 -Spring Boot
 -Hibernate
 -MySQL
+-Lombok
