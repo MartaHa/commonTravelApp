@@ -1,15 +1,16 @@
 # commonTravelApp
-an app where drivers add their rides and passengers can book a seat for theirselves.
-It's my first app - a scheme for the project I want to do in the next weeks - a taxi booking app that uses Google Api 
+
+An application made on a Java BootCamp. People register as drivers and passangers. Drivers add their rides and passengers can book a seat for theirselves. 
 
 
-The app was created in the InteliJ IDEA and Spring Framework.
-I used:
--BootStrap
--Spring
--Spring Security
--Thymeleaf
--Spring Boot
--Hibernate
--MySQL
--Lombok
+The app was created in the IntelliJ IDEA and Spring Framework. For SQL operations I supported myself with MySQL Workbench
+
+Technologies I used:
+-BootStrap templates,  
+-Spring JPA,  
+-Spring Security,  
+-Thymeleaf,  
+-Spring Boot,  
+-Hibernate,  
+-MySQL,  
+-Lombok,  
